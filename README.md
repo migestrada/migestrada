@@ -1,33 +1,20 @@
-<div align="center">
-  <summary>
-    <h2 style="display: inline-block">Hi There!👋</h2>
-  </summary>
-</div>
+## Hi There!👋
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<hr>
-<div align="center">
-  <summary>
-    <h2 style="display: inline-block">About me👨🏻‍💻</h2>
-  </summary>
-</div>
-<ul>
-	<li>🚀 Passionate **Full Stack Developer**</li>
-	<li>🌍 Working remotely from **Dublin, Ireland**, open to global collaboration</li>
-	<li>💬 Languages: **Spanish** and **English**</li>
-	<li>🛠 Tools I use daily: **Ruby on Rails**, **NextJS**, **React**, **React Native**, **PostgreSQL**, **Git**</li>
-	<li>🧠 Currently learning **Cloud Infrastructure, System Design, Golang, NextJS, React and React Native**</li>
-</ul>
+
+## About me👨🏻‍💻
+
+- 🚀 Passionate **Full Stack Developer**
+- 🌍 Working remotely from **Dublin, Ireland**, open to global collaboration
+- 💬 Languages: **Spanish** and **English**
+- 🛠 Tools I use daily: **Ruby on Rails**, **NextJS**, **React**, **React Native**, **PostgreSQL**, **Git**
+- 🧠 Currently learning **Cloud Infrastructure, System Design, Golang, NextJS, React and React Native**
 <br></br>
 <a href="https://www.linkedin.com/in/migestrada/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<hr>
-<!--h1 without bottom border-->
-<div align="center">
-  <summary>
-    <h2 style="display: inline-block">Technologies That I Know</h2>
-  </summary>
-</div>
+
+## Technologies That I Know
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,redis,go,javascript,ts,nextjs,prisma,vercel,react,redux,py,flask,selenium,postgresql,mysql,css,sass,bootstrap,materialui,tailwindcss,git,linux,vscode&perline=14" />
