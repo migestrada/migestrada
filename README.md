@@ -4,7 +4,6 @@
 </p>
 
 ## About me👨🏻‍💻
-
 - 🚀 Passionate **Full Stack Developer**
 - 🌍 Working remotely from **Dublin, Ireland**
 - 💬 Languages: **Spanish** **English**
@@ -12,6 +11,7 @@
 - 🧠 Currently learning **Cloud Infrastructure, System Design, Golang, Blockchain**
 <br></br>
 <a href="https://www.linkedin.com/in/migestrada/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Playlist](https://img.shields.io/badge/-Playlist-ff0000?style=for-the-badge)](https://music.youtube.com/playlist?list=PLOcUkMc1j7LvcDRW_jM1M4AJBBdspY2bB&si=guhvcJj45SFPtKws)
 
 ## Background
 
