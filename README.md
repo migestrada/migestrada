@@ -6,14 +6,14 @@
 ## About me👨🏻‍💻
 
 - 🚀 Passionate **Full Stack Developer**
-- 🌍 Working remotely from **Dublin, Ireland**, open to global collaboration
-- 💬 Languages: **Spanish** and **English**
-- 🛠 Tools I use daily: **Ruby on Rails**, **NextJS**, **React**, **React Native**, **PostgreSQL**, **Git**
-- 🧠 Currently learning **Cloud Infrastructure, System Design, Golang, NextJS, React and React Native**
+- 🌍 Working remotely from **Dublin, Ireland**
+- 💬 Languages: **Spanish** **English**
+- 🛠 Tools: **Ruby on Rails**, **NextJS**, **React**, **React Native**, **PostgreSQL**, **Git**
+- 🧠 Currently learning **Cloud Infrastructure, System Design, Golang, Blockchain**
 <br></br>
 <a href="https://www.linkedin.com/in/migestrada/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Technologies That I Know
+## Background
 
 <p align="center">
   <a href="https://skillicons.dev">
